@@ -1,0 +1,6 @@
+Comandos Básicos
+
+- git clone (link do reposiório): serve para clonar o repositório na sua máquina
+- git add . ou -A: adiciona as modificações o "." ou o "-A" faz com que todas as modificações sejam adicionadas
+- git commit -m : comita as modificaçõeso "-m" deixa inserir um comentário do commit, super importante para a rastreabilidade do que está sendo comitado
+- git push: manda para o servidor as modificações
