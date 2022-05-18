@@ -1,2 +1,2 @@
-# desafio-dio-github-primeiro-repositorio
+# Repositório do desafio da Dio
 Desafio de projeto sobre Git-Hub.
